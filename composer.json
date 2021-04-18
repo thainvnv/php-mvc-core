@@ -7,5 +7,10 @@
             "email": "thainvnv@gmail.com"
         }
     ],
+     "autoload": {
+        "psr-4": {
+            "thainv\\phpmvc\\": "."
+        }
+    },
     "require": {}
 }
