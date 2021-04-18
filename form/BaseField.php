@@ -1,8 +1,8 @@
 <?php 
 	
-	namespace app\core\form;
+	namespace thainv\phpmvc\form;
 	
-	use app\core\Model;
+	use thainv\phpmvc\Model;
 
 
 	abstract class BaseField

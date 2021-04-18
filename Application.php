@@ -1,9 +1,9 @@
 <?php 
 	
-	namespace app\core;
+	namespace thainv\phpmvc;
 
 	use app\models\User;
-	use app\core\db\Database;
+	use thainv\phpmvc\db\Database;
 	
 
 	class Application

@@ -1,8 +1,8 @@
 <?php 
-	namespace app\core\db;
+	namespace thainv\phpmvc\db;
 
-	use app\core\Application;
-	use app\core\Model;
+	use thainv\phpmvc\Application;
+	use thainv\phpmvc\Model;
 
 	abstract class DbModel extends Model
 	{

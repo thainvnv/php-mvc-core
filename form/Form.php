@@ -1,7 +1,7 @@
 <?php 
 	
-	namespace app\core\form;
-	use app\core\Model;
+	namespace thainv\phpmvc\form;
+	use thainv\phpmvc\Model;
 	
 	class Form
 	{

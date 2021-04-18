@@ -1,9 +1,9 @@
 <?php 
 
-	namespace app\core\middlewares;
+	namespace thainv\phpmvc\middlewares;
 	
-	use app\core\Exception\FobbidenException;
-	use app\core\Application;
+	use thainv\phpmvc\Exception\FobbidenException;
+	use thainv\phpmvc\Application;
 
 	class AuthMiddleware extends BaseMiddleware
  	{

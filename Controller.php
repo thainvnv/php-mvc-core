@@ -1,8 +1,8 @@
 <?php 
-	namespace app\core;
+	namespace thainv\phpmvc;
 
-	use app\core\Application;
-	use app\core\middlewares\BaseMiddleware;
+	use thainv\phpmvc\Application;
+	use thainv\phpmvc\middlewares\BaseMiddleware;
 
 
 	class Controller

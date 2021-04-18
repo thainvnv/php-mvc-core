@@ -1,7 +1,7 @@
 <?php 
-	namespace app\core;
+	namespace thainv\phpmvc;
 
-	use app\core\Exception\NotFoundException;
+	use thainv\phpmvc\Exception\NotFoundException;
 	class Router
 	{
 		public $request;
