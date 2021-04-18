@@ -1,0 +1,11 @@
+{
+    "name": "thainv/php-mvc-core",
+    "description": "Core php mvc to develop your project easily",
+    "authors": [
+        {
+            "name": "Thai Nguyen",
+            "email": "thainvnv@gmail.com"
+        }
+    ],
+    "require": {}
+}
